@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m Abram
 
-<!--
-**Abram0303/Abram0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m a **second-year student at HEIG-VD** majoring in **Data Engineering**.  
+I enjoy learning, coding, and tackling technical challenges — and outside of class, I’m passionate about **sports** (cycling 🚴, tennis 🎾, skiing 🎿, snowboarding 🏂).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently learning
+- **Languages:** C, C++, Java, SQL, R  
+- **Focus areas:** algorithms, data structures, databases, applied statistics  
+
+---
+
+## 💻 Skills
+- Software development (C / C++)  
+- Object-oriented programming (Java)  
+- Data analysis and statistics (R)  
+- Database management and queries (SQL)  
+
+---
+
+## 🌱 Interests
+- Data engineering & data science  
+- Modeling and quantitative analysis  
+- Sports: cycling, tennis, skiing, snowboarding  
