@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!  
 I’m a **second-year student at HEIG-VD** majoring in **Data Engineering**.  
-I enjoy learning, coding, and tackling technical challenges — and outside of class, I’m passionate about **sports** (cycling 🚴, tennis 🎾, skiing 🎿, snowboarding 🏂).
+I enjoy learning, coding, and tackling technical challenges and outside of class, I’m passionate about **sports** (cycling 🚴, tennis 🎾, skiing 🎿, snowboarding 🏂).
 
 ---
 
