@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Abram
 
 Welcome to my GitHub profile!  
-I’m a **second-year student at HEIG-VD** majoring in **Data Engineering**.  
+I’m a **third-year student at HEIG-VD** majoring in **Data Engineering**.  
 I enjoy learning, coding, and tackling technical challenges and outside of class, I’m passionate about sports.
 
 ---
